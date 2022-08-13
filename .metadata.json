@@ -2,5 +2,9 @@
   {
     "package": "gunit",
     "oncran": true
+  },
+  {
+    "package": "photosynthesis",
+    "oncran": true
   }
 ]

@@ -8,3 +8,8 @@
 	url = https://github.com/cdmuir/gunit
 	shallow = true
 	registered = true
+[submodule "photosynthesis"]
+	path = photosynthesis
+	url = https://github.com/cdmuir/photosynthesis
+	shallow = true
+	registered = true
