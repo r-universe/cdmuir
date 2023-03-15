@@ -6,5 +6,9 @@
   {
     "package": "photosynthesis",
     "oncran": true
+  },
+  {
+    "package": "tealeaves",
+    "oncran": true
   }
 ]

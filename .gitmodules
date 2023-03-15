@@ -13,3 +13,8 @@
 	url = https://github.com/cdmuir/photosynthesis
 	shallow = true
 	registered = true
+[submodule "tealeaves"]
+	path = tealeaves
+	url = https://github.com/cdmuir/tealeaves
+	shallow = true
+	registered = true
