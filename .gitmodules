@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "gunit"]
 	path = gunit
 	url = https://github.com/cdmuir/gunit
-	shallow = true
-	registered = true
 [submodule "photosynthesis"]
 	path = photosynthesis
 	url = https://github.com/cdmuir/photosynthesis
-	shallow = true
-	registered = true
 [submodule "tealeaves"]
 	path = tealeaves
 	url = https://github.com/cdmuir/tealeaves
-	shallow = true
-	registered = true
